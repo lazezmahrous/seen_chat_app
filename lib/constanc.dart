@@ -48,8 +48,8 @@ class Constanc {
         ),
   };
   static const keyString =
-      'qwertyuiopslkjhgfdsazxcvbnmnbvcx'; // يجب أن يكون طول المفتاح 32 بايت
-  static const ivString = 'qwertyuiopasdfgh'; // يجب أن يكون طول IV 16 بايت
+      '11111111111111111111111111111111'; // يجب أن يكون طول المفتاح 32 بايت
+  static const ivString = '1111111111111111'; // يجب أن يكون طول IV 16 بايت
 
   static Future getChatWherUserIn({required String secondUserUid}) async {
     try {
