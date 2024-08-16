@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718553496615",
+    "project_id": "seenchatapp",
+    "storage_bucket": "seenchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718553496615:android:dadf62b2a8908f644b2202",
+        "android_client_info": {
+          "package_name": "xo.lazez.gadwelha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxou91pwas2DHKCQEI6PZtDpruNJieL-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
